@@ -1,85 +1,209 @@
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:DB2777,100:F59E0B&height=220&section=header&text=Ananya%20Srinath%20Achar&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Data%20Analyst%20%E2%80%A2%20Turning%20rows%20into%20decisions&descSize=18&descAlignY=58" />
+
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ananya+%F0%9F%91%8B;Data+Analyst+%7C+Analytics+Engineer;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+AWS;I+turn+messy+data+into+decisions." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=DB2777&center=true&vCenter=true&width=640&lines=SELECT+insight+FROM+chaos+WHERE+impact+%3E+0%3B;Forecasting+%C2%B7+Automation+%C2%B7+Dashboards;Built+a+text-to-SQL+agent+on+Amazon+Bedrock+%F0%9F%A4%96;AWS+%C2%B7+Azure+%C2%B7+Snowflake+certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/ananyasrinathachar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ananyas1999.github.io/Ananya-s-portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<!-- Add your email: replace YOUR_EMAIL below and uncomment -->
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<a href="mailto:ananya.s.achar1@gmail.com"><img src="https://img.shields.io/badge/Email-DB2777?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Dallas,_TX-Open_to_relocation-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=ananyas1999&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" />
+
+</div>
+
+<br>
+
+### `> whoami`
+
+```sql
+SELECT  name, role, superpower, currently, off_the_clock
+FROM    people
+WHERE   github = 'ananyas1999';
+
+-- ┌─────────────┬──────────────┬──────────────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+-- │ name        │ role         │ superpower                           │ currently                    │ off_the_clock                │
+-- ├─────────────┼──────────────┼──────────────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+-- │ Ananya      │ Data Analyst │ finding the pattern nobody asked for │ letting LLMs write the SQL   │ sentiment-scoring Taylor     │
+-- │             │ 4+ yrs       │ and automating the report after it   │ (and checking their work)    │ Swift albums 🎤              │
+-- └─────────────┴──────────────┴──────────────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+-- 1 row returned. Recruiter interest: high.
+```
+
+---
+
+### 📈 Impact board
+
+<div align="center">
+
+| ⏱️ Analysis time | 🎯 Forecast accuracy | 🔁 Manual work | ⚡ Query dev time | 🤖 Agent accuracy | 🏢 Systems unified |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **−55%** | **+14%** | **−6 hrs/wk** | **−60%** | **90%** | **8** |
+| automated prep & reporting | SQL capacity-pattern analysis | Excel automation | text-to-SQL agent | RAG over schema docs | ETL mapping at Cognizant |
 
 </div>
 
 ---
 
-### 👩🏻‍💻 About me
+### 🧭 The journey so far
 
-I'm a **Data Analyst** who likes the whole journey — pulling raw data out of systems, modeling it into something trustworthy, and telling the story in a dashboard people actually use.
+```mermaid
+timeline
+    2017 - 2021 : B.E. Electronics & Communication
+                : JSS Academy of Technical Education, Bangalore
+    2021 - 2023 : Data Analyst
+                : Cognizant, Bangalore
+    2023 - 2025 : M.S. IT & Management, UT Dallas
+                : Scholar with Recognition
+    Spring 2025 : Software Engineering Intern
+                : Nuvento Inc
+    2025 - 2026 : Data Analyst
+                : Community Dreams Foundation
+    2026        : Business Data Analyst
+                : ShiftKey
+```
 
-- 🎓 **MS in Information Technology & Management** @ The University of Texas at Dallas
-- 💼 Analytics experience at **Nuvento Inc** and **Cognizant**
-- 🔭 Currently exploring **modern data stack** tooling — Snowflake, dbt, and cloud ELT
-- 🎶 Fun fact: I once ran sentiment analysis on every Taylor Swift album (see below)
-- 🤝 Open to **Data Analyst / Analytics Engineer / BI** roles
+<details>
+<summary><b>💼 ShiftKey</b> — Business Data Analyst · Mar – Jul 2026 · Dallas</summary>
+<br>
+
+- Dug through high-volume operational data in SQL, surfaced recurring capacity patterns, and lifted demand-forecast accuracy **14%**
+- Built one common language of volume, utilization and efficiency metrics so **8 business segments** could finally be compared fairly
+- Turned a weekly manual metrics grind into an automated Excel report — **6 hours/week** handed back to the team
+- Sharpened launch and promo targeting with performance analysis, nudging campaign effectiveness up **9%**
+
+</details>
+
+<details>
+<summary><b>🌱 Community Dreams Foundation</b> — Data Analyst · Sep 2025 – Mar 2026</summary>
+<br>
+
+- Automated the data prep behind recurring reports and cut monthly analysis time by more than half (**−55%**)
+- Pulled **12 initiatives** into a single set of KPI dashboards instead of a dozen scattered reports
+- Segmented audiences by behavior and trend, raising campaign response rates **13%**
+
+</details>
+
+<details>
+<summary><b>☁️ Nuvento Inc</b> — Software Engineering Intern · Feb – May 2025</summary>
+<br>
+
+- Wrote reusable SQL for extract → transform → validate, trimming processing time **20%**
+- Helped run an AWS pipeline (S3 → Lambda → Redshift) moving **50K+ records**
+- Built and tested forecasting models in SageMaker, improving accuracy **10%**
+
+</details>
+
+<details>
+<summary><b>🏢 Cognizant</b> — Data Analyst · Sep 2021 – Jul 2023 · Bangalore</summary>
+<br>
+
+- Traced recurring transaction failures in Oracle with SQL, cutting operational exceptions **30%**
+- Wrote the source-to-target mappings and ETL rules that kept data consistent across **8 enterprise systems**
+- Replaced hand-built management reports with Excel + VBA automation (**−45%** reporting time)
+- Used regression and clustering on transaction patterns to push forecast accuracy up **12%**
+- Kept **18 management metrics** trustworthy with automated reconciliation checks
+
+</details>
 
 ---
 
-### 🚀 Featured projects
+### 🤖 Flagship build — AI Database Assistant
 
-| Project | What it does | Stack |
-|---|---|---|
-| ❄️ **[Snowflake + dbt ELT Pipeline](https://github.com/ananyas1999/snowflake-dbt-elt-pipeline)** | Simulates a CDC pipeline: Python generates order data → lands in S3 → loads into Snowflake → dbt builds raw, staging, incremental and mart layers with data-quality tests. | Snowflake · dbt · AWS S3 · SQL · Python |
-| 🧠 **[Unmasking OCD](https://github.com/ananyas1999/OCD--Tableau-and-SQL)** | Five analytical questions on OCD patient data — severity drivers, compulsion–comorbidity overlap, obsession→compulsion loops, and "silent sufferers" who'd be missed by severity scores alone. | MySQL · Tableau |
-| 🩺 **[Cirrhosis Outcome Prediction](https://github.com/ananyas1999/cirrhosis_outcome_prediction)** | Multi-class outcome prediction across 7 tracked experiment versions (encoding, outlier handling, scaling, imputation, HyperOpt tuning), optimized for log loss on Kaggle. | Python · scikit-learn · MLflow · Databricks |
-| 🚛 **[Truck Fleet Safety Analysis](https://github.com/ananyas1999/Truck-Fleet-Analysis)** | Telematics analysis for a long-haul carrier to flag unsafe driving — lane departures, speeding, mileage and violations. | Analytics · Data Storytelling |
-| 🎤 **[Taylor Swift × Data Science](https://github.com/ananyas1999/TAYLOR-SWIFT-and-DATA-SCIENCE)** | NLP sentiment polarity & subjectivity across every era — which albums are the most positive, most personal, and how her tone has shifted. | Python · NLP · Pandas |
-| 🦄 **[Wild Rydes (AWS Serverless)](https://github.com/ananyas1999/wildrydes-site)** | End-to-end serverless web app with auth, API and database, deployed via Amplify CI/CD (built from the AWS serverless workshop). | Amplify · Cognito · Lambda · API Gateway · DynamoDB |
+> Ask a business question in plain English, get back validated SQL and the answer. No ticket, no wait.
+
+```mermaid
+flowchart LR
+    U(["🙋 Plain-English question"]) --> L["⚡ AWS Lambda"]
+    L --> B["🧠 Amazon Bedrock · Claude"]
+    KB[("📚 Bedrock Knowledge Base\nschema + business definitions on S3")] -. RAG context .-> B
+    B --> V{"✅ SQL validation"}
+    V -- safe --> R[("🗄️ Amazon Redshift")]
+    V -- retry --> B
+    R --> A(["📊 Insight back to the user"])
+```
+
+**−60%** query-development time · **90%** accuracy on the test question set · `Bedrock` `Claude` `Lambda` `Redshift` `S3` `RAG`
+
+<!-- TODO: push this project to a repo and link it here: https://github.com/ananyas1999/<repo-name> -->
 
 ---
 
-### 🛠️ Toolkit
+### 🧪 More from the lab
 
-**Languages & Querying**<br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+| | Project | The interesting bit | Stack |
+|:-:|---|---|---|
+| ❄️ | **[Snowflake + dbt ELT](https://github.com/ananyas1999/snowflake-dbt-elt-pipeline)** | CDC-style pipeline: S3 landing → raw, staging, incremental and mart layers, with tests | Snowflake · dbt · S3 · Python |
+| 🧠 | **[Unmasking OCD](https://github.com/ananyas1999/OCD--Tableau-and-SQL)** | Finds the "silent sufferers" a severity score alone would miss | MySQL · Tableau |
+| 🩺 | **[Cirrhosis Outcomes](https://github.com/ananyas1999/cirrhosis_outcome_prediction)** | 7 tracked experiment versions chasing the lowest log loss | scikit-learn · MLflow · Databricks |
+| 🚛 | **[Truck Fleet Safety](https://github.com/ananyas1999/Truck-Fleet-Analysis)** | Telematics signals that flag unsafe long-haul driving | Analytics · Storytelling |
+| 🎤 | **[Taylor Swift × Data Science](https://github.com/ananyas1999/TAYLOR-SWIFT-and-DATA-SCIENCE)** | NLP sentiment & subjectivity across every era | Python · NLP |
 
-**Data Engineering & Warehousing**<br>
+---
+
+### 🧰 Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,aws,azure,dynamodb,elasticsearch,sklearn,anaconda,githubactions,git,vscode,linux&perline=14" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-**Visualization & BI**<br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel_+_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+<img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-6B7280?style=flat-square&logo=fastapi&logoColor=white" />
 
-**ML & Analysis**<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<br><br>
 
-**Cloud**<br>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+**Methods:** regression · clustering · forecasting · data mining · model validation · ETL design · KPI dashboards
+
+</div>
+
+### 🏅 Certified
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-SnowPro_Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+
+🎓 **M.S. IT & Management, UT Dallas** — 3.63 GPA · Scholar with Recognition
+
+</div>
 
 ---
 
-### 📊 GitHub at a glance
+### 🐍 Eating my contribution graph
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ananyas1999&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyas1999&layout=compact&hide_border=true&theme=tokyonight" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananyas1999/ananyas1999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyas1999/ananyas1999/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ananyas1999/ananyas1999/output/github-snake.svg" />
+</picture>
+
+<br>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ananyas1999&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DB2777&icon_color=F59E0B&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=ananyas1999&hide_border=true&background=0d1117&ring=7C3AED&fire=DB2777&currStreakLabel=F59E0B&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+
 </div>
 
 ---
 
 <div align="center">
 
-**Let's connect** — always happy to talk data, dashboards, or the best Taylor Swift era. 💜
+**If you have messy data and a question nobody can answer yet — let's talk.** 💜
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:DB2777,100:7C3AED&height=120&section=footer" />
