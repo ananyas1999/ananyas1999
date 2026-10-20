@@ -19,15 +19,16 @@
 ```sql
 SELECT  name, role, superpower, currently, off_the_clock
 FROM    people
-WHERE   github = 'ananyas1999';
+WHERE   github = 'ananyas1999'\G
 
--- ┌─────────────┬──────────────┬──────────────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
--- │ name        │ role         │ superpower                           │ currently                    │ off_the_clock                │
--- ├─────────────┼──────────────┼──────────────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
--- │ Ananya      │ Data Analyst │ finding the pattern nobody asked for │ letting LLMs write the SQL   │ sentiment-scoring Taylor     │
--- │             │ 4+ yrs       │ and automating the report after it   │ (and checking their work)    │ Swift albums 🎤              │
--- └─────────────┴──────────────┴──────────────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
--- 1 row returned. Recruiter interest: high.
+-- *************************** 1. row ***************************
+--          name: Ananya
+--          role: Data Analyst, 4+ years
+--    superpower: finding the pattern nobody asked for,
+--                then automating the report after it
+--     currently: letting LLMs write the SQL (and checking their work)
+-- off_the_clock: sentiment-scoring Taylor Swift albums
+-- 1 row in set. Recruiter interest: high.
 ```
 
 ---
@@ -190,12 +191,6 @@ flowchart LR
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananyas1999/ananyas1999/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ananyas1999/ananyas1999/output/github-snake.svg" />
 </picture>
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ananyas1999&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DB2777&icon_color=F59E0B&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=ananyas1999&hide_border=true&background=0d1117&ring=7C3AED&fire=DB2777&currStreakLabel=F59E0B&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
 </div>
 
 ---
