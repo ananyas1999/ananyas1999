@@ -197,7 +197,7 @@ flowchart LR
 
 <div align="center">
 
-**If you have messy data and a question nobody can answer yet — let's talk.** 💜
+**If you have messy data and a question nobody can answer yet — let's talk.** 
 
 </div>
 
