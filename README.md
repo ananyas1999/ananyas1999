@@ -177,7 +177,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-SnowPro_Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
 
-🎓 **M.S. IT & Management, UT Dallas** — 3.63 GPA · 
+🎓 **M.S. IT & Management, UT Dallas** — 3.63 GPA · Scholar with Recognition
 
 </div>
 
