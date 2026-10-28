@@ -169,7 +169,7 @@ flowchart LR
 
 </div>
 
-### 🏅 Certified
+### 🏅 Certifications
 
 <div align="center">
 
