@@ -33,7 +33,7 @@ WHERE   github = 'ananyas1999'\G
 
 ---
 
-### 📈 Impact board
+### Impact board
 
 <div align="center">
 
