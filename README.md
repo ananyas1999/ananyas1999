@@ -76,7 +76,7 @@ timeline
 </details>
 
 <details>
-<summary><b>🌱 Community Dreams Foundation</b> — Data Analyst · Sep 2025 – Mar 2026</summary>
+<summary><b> Community Dreams Foundation</b> — Data Analyst · Sep 2025 – Mar 2026</summary>
 <br>
 
 - Automated the data prep behind recurring reports and cut monthly analysis time by more than half (**−55%**)
